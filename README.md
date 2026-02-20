@@ -29,3 +29,7 @@ The script will:
 Close each plot window to continue to the next file.
 
 -------------------------------
+
+## Example plot
+
+![Example Plot](example_plot.png)
