@@ -32,4 +32,5 @@ Close each plot window to continue to the next file.
 
 ## Example plot
 
-![Example Plot](example_plot.png)
+![Example Plot](example_passed.png)
+![Example Plot](example_failed.png)
